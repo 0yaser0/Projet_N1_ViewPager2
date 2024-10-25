@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projet N°1</string>
+    <string name="welcome_to_">Welcome to Food.ma</string>
+    <string name="meet_munchb">Discover Food.ma, your ultimate culinary companion! Explore recipes, plan meals, and enjoy personalized recommendations to make every meal unforgettable.</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="dish_name">Grilled Chicken</string>
+    <string name="dish_description">Un plat savoureux de poulet grillé, parfaitement assaisonné et cuit à la tendreté idéale. Juteux à l\'intérieur avec une croûte croustillante et pleine de saveur, il est accompagné d'un assortiment de légumes frais et colorés pour un repas sain et satisfaisant.</string>
+    <string name="our_recipe">Discover Our Recipes</string>
+    <string name="desciption_getStarted2">Bringing flavors from our kitchen to yours.</string>
+    <string name="search">Search for recipes</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="p">#7F7F7F</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="darkFirstColor">#0F2032</color>
+    <color name="white">#FFFFFF</color>
+    <color name="status_bar_color_splash">#317B9F</color>
+    <color name="firstColor">#0491E9</color>
+    <color name="firstColorLight">#D00491E9</color>
+    <color name="secondColor">#0099FF</color>
+    <color name="thirdColor">#407BFF</color>
+</resources>
