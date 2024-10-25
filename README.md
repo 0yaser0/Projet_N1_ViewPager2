@@ -14,7 +14,9 @@ This project was guided by **Nizar**, our instructor at **CMC School**, as part 
 
 Here are some images of the application:
 
-![Fragment 1]([path/to/your/image1.png](https://raw.githubusercontent.com/0yaser0/Projet_N1_ViewPager2/master/WhatsApp%20Image%202024-10-25%20at%2019.36.14_00e188dc.jpg))
-![Fragment 2]([path/to/your/image1.png](https://raw.githubusercontent.com/0yaser0/Projet_N1_ViewPager2/master/WhatsApp%20Image%202024-10-25%20at%2019.36.15_7a28a918.jpg))
-![Fragment 2]([path/to/your/image1.png](https://raw.githubusercontent.com/0yaser0/Projet_N1_ViewPager2/master/WhatsApp%20Image%202024-10-25%20at%2019.36.15_c894973d.jpg))
-![Fragment 3]([path/to/your/image1.png](https://raw.githubusercontent.com/0yaser0/Projet_N1_ViewPager2/master/WhatsApp%20Image%202024-10-25%20at%2019.36.15_dfa0fb24.jpg))
+<div>
+    <img src="https://raw.githubusercontent.com/0yaser0/Projet_N1_ViewPager2/master/WhatsApp%20Image%202024-10-25%20at%2019.36.14_00e188dc.jpg" width="200" />
+    <img src="https://raw.githubusercontent.com/0yaser0/Projet_N1_ViewPager2/master/WhatsApp%20Image%202024-10-25%20at%2019.36.15_7a28a918.jpg" width="200" />
+    <img src="https://raw.githubusercontent.com/0yaser0/Projet_N1_ViewPager2/master/WhatsApp%20Image%202024-10-25%20at%2019.36.15_c894973d.jpg" width="200" />
+    <img src="https://raw.githubusercontent.com/0yaser0/Projet_N1_ViewPager2/master/WhatsApp%20Image%202024-10-25%20at%2019.36.15_dfa0fb24.jpg" width="200" />
+</div>
