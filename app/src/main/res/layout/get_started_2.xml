@@ -30,7 +30,7 @@
         android:autoSizeMaxTextSize="1000dp"
         android:autoSizeMinTextSize="1dp"
         android:autoSizeTextType="uniform"
-        android:text="@string/desciption_getStarted2"
+        android:text="@string/description_getStarted2"
         android:textAppearance="@style/CreateANewTextStyle"
         app:layout_constraintBottom_toTopOf="@+id/guideline_H25"
         app:layout_constraintEnd_toStartOf="@+id/guideline_H70"

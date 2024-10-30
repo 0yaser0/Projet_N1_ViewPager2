@@ -8,28 +8,23 @@
     android:orientation="vertical"
     tools:context=".main_view.GetStarted"
     tools:ignore="PxUsage">
-    <ImageView
-        android:id="@+id/myImageView"
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout"
         android:layout_width="match_parent"
-        android:layout_height="130dp"
-        android:background="@drawable/vectors_bar"/>
+        android:layout_height="wrap_content"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/firstColor"
+        app:tabTextColor="@color/darkFirstColor" />
+
     <androidx.viewpager2.widget.ViewPager2
         android:id="@+id/viewPager"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
     <FrameLayout
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-    <me.relex.circleindicator.CircleIndicator3
-        android:id="@+id/indicator"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_gravity="center"
-        android:layout_marginBottom="40dp"
-        app:ci_drawable="@drawable/ic_circle_clean"
-        app:ci_drawable_unselected="@drawable/ic_circle_blur" />
+
 </RelativeLayout>
